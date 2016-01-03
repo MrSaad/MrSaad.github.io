@@ -1,0 +1,40 @@
+/**  Basic Page CSS **/
+html{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body{
+  font-family: 'EB Garamond', serif;
+  font-weight: 400;
+  font-size: 2.5em;
+  position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'EB Garamond', serif;
+  font-weight: 400;
+  margin: 0;
+}
+
+h1{
+  font-size: 3em;
+}
+
+/*** Main Page ***/
+.main-page{
+  text-align: center;
+}
+
+.main-page .row{
+  padding-top: 100px;
+}
+
+.main-page .descript-row{
+    padding-top: 50px;
+
+}
+
+.main-page .descript{
+  padding: 0px 230px;
+}
