@@ -2,19 +2,18 @@
 html{
   max-width: 100%;
   overflow-x: hidden;
-  background: #2B2521;
+  background: #222;
 }
 
 body{
-  font-family: 'Poiret One', cursive;
-  font-weight: 400;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 2.5em;
   position: relative;
 }
 
 h1, h2, h3, h4, h5, h6 {
   /*font-family: 'EB Garamond', serif;*/
-  font-weight: 400;
+  font-weight: 300;
   margin: 0;
   color: white;
 }
@@ -25,7 +24,7 @@ h1{
 
 /*** Main Page ***/
 .main-page{
-  background-color: #2B2521;
+  background-color: #222;
   text-align: center;
 }
 
