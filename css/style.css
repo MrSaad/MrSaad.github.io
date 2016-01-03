@@ -2,19 +2,21 @@
 html{
   max-width: 100%;
   overflow-x: hidden;
+  background: #2B2521;
 }
 
 body{
-  font-family: 'EB Garamond', serif;
+  font-family: 'Poiret One', cursive;
   font-weight: 400;
   font-size: 2.5em;
   position: relative;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'EB Garamond', serif;
+  /*font-family: 'EB Garamond', serif;*/
   font-weight: 400;
   margin: 0;
+  color: white;
 }
 
 h1{
@@ -23,6 +25,7 @@ h1{
 
 /*** Main Page ***/
 .main-page{
+  background-color: #2B2521;
   text-align: center;
 }
 
